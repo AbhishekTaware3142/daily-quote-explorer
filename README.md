@@ -70,7 +70,10 @@ daily-quote-explorer/
    cd backend
    mvn spring-boot:run
    ```
-4. Backend runs at:  
+4.  Run on Eclipse:
+   Select project and run as Spring Boot App
+  
+5. Backend runs at:  
    👉 `http://localhost:8080/api/quotes/random`
 
 ---
