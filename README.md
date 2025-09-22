@@ -117,4 +117,4 @@ instead of `localhost`.
 ## ✨ Bonus Features (Optional)
 - Save favorites permanently using `shared_preferences` or Hive  
 - Search bar in Favorites  
-- Share quotes using `share_plus`  
+- Share quotes using `share_plus`  .
