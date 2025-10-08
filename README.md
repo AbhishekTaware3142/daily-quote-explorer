@@ -5,7 +5,7 @@ The app shows motivational quotes, lets you save favorites, and switch between H
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structure-
 ```
 daily-quote-explorer/
 ├── backend/   # Spring Boot backend (REST APIs + MySQL)
